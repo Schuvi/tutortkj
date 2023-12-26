@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Schuvi &#8211; Tutorial TKJ</title>
+	<atom:link href="https://schuvi.github.io/tutortkj/author/schuvi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://schuvi.github.io/tutortkj</link>
+	<description>Level Up Your Knowledge</description>
+	<lastBuildDate>Tue, 26 Dec 2023 06:09:41 +0000</lastBuildDate>
+	<language>id</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>https://schuvi.github.io/tutortkj/wp-content/uploads/2023/12/cropped-cropped-TKJ-32x32.png</url>
+	<title>Schuvi &#8211; Tutorial TKJ</title>
+	<link>https://schuvi.github.io/tutortkj</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>contoh2</title>
+		<link>https://schuvi.github.io/tutortkj/2023/12/26/contoh2/</link>
+					<comments>https://schuvi.github.io/tutortkj/2023/12/26/contoh2/#respond</comments>
+		
+		<dc:creator><![CDATA[Schuvi]]></dc:creator>
+		<pubDate>Tue, 26 Dec 2023 06:09:41 +0000</pubDate>
+				<category><![CDATA[Tak Berkategori]]></category>
+		<guid isPermaLink="false">https://schuvi.github.io/tutortkj/?p=38</guid>
+
+					<description><![CDATA[sjhdadskajhsasjdajhsdwiis]]></description>
+										<content:encoded><![CDATA[<p>sjhdadskajhsasjdajhsdwiis</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://schuvi.github.io/tutortkj/2023/12/26/contoh2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Halo dunia!</title>
+		<link>https://schuvi.github.io/tutortkj/2023/12/25/halo-dunia/</link>
+					<comments>https://schuvi.github.io/tutortkj/2023/12/25/halo-dunia/#comments</comments>
+		
+		<dc:creator><![CDATA[Schuvi]]></dc:creator>
+		<pubDate>Mon, 25 Dec 2023 02:20:09 +0000</pubDate>
+				<category><![CDATA[Tak Berkategori]]></category>
+		<guid isPermaLink="false">https://schuvi.github.io/tutortkj/?p=1</guid>
+
+					<description><![CDATA[Selamt datang di WordPress. Ini adalah pos pertama Anda. Sunting atau hapus, kemudian mulai menulis!]]></description>
+										<content:encoded><![CDATA[
+<p>Selamt datang di WordPress. Ini adalah pos pertama Anda. Sunting atau hapus, kemudian mulai menulis!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://schuvi.github.io/tutortkj/2023/12/25/halo-dunia/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
