@@ -12,7 +12,7 @@
 	<atom:link href="https://schuvi.github.io/tutortkj/feed/" rel="self" type="application/rss+xml" />
 	<link>https://schuvi.github.io/tutortkj</link>
 	<description>Level Up Your Knowledge</description>
-	<lastBuildDate>Tue, 26 Dec 2023 06:09:41 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 26 Dec 2023 07:36:48 +0000</lastBuildDate>
 	<language>id</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,20 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>contoh2</title>
-		<link>https://schuvi.github.io/tutortkj/2023/12/26/contoh2/</link>
-					<comments>https://schuvi.github.io/tutortkj/2023/12/26/contoh2/#respond</comments>
+		<title>Cara Instalasi Debian 11 (Virtual Box)</title>
+		<link>https://schuvi.github.io/tutortkj/2023/12/26/cara-instalasi-debian-11-virtual-box/</link>
+					<comments>https://schuvi.github.io/tutortkj/2023/12/26/cara-instalasi-debian-11-virtual-box/#respond</comments>
 		
 		<dc:creator><![CDATA[Schuvi]]></dc:creator>
 		<pubDate>Tue, 26 Dec 2023 06:09:41 +0000</pubDate>
-				<category><![CDATA[Tak Berkategori]]></category>
+				<category><![CDATA[Tutorial Debian]]></category>
 		<guid isPermaLink="false">https://schuvi.github.io/tutortkj/?p=38</guid>
 
-					<description><![CDATA[sjhdadskajhsasjdajhsdwiis]]></description>
-										<content:encoded><![CDATA[<p>sjhdadskajhsasjdajhsdwiis</p>
+					<description><![CDATA[Debian adalah sistem operasi komputer yang tersusun dari paket-paket perangkat lunak yang dirilis sebagai perangkat lunak bebas dan terbuka dengan lisensi mayoritas GNU General Public License dan lisensi perangkat lunak bebas lainnya. Debian termasuk keluarga dari sistem operasi Unix, berikut merupakan cara untuk menginstall debian di virtualbox : 1. Buka VirtualBox yang telah kalian install.]]></description>
+										<content:encoded><![CDATA[<p style="text-align: left;">Debian adalah sistem operasi komputer yang tersusun dari paket-paket perangkat lunak yang dirilis sebagai perangkat lunak bebas dan terbuka dengan lisensi mayoritas GNU General Public License dan lisensi perangkat lunak bebas lainnya. Debian termasuk keluarga dari sistem operasi Unix, berikut merupakan cara untuk menginstall debian di virtualbox :</p>
+<p>1. Buka VirtualBox yang telah kalian install.</p>
+<p><img fetchpriority="high" decoding="async" class="wp-image-79 aligncenter" src="https://schuvi.github.io/tutortkj/wp-content/uploads/2023/12/Untitled-300x156.png" alt="" width="488" height="254" srcset="https://schuvi.github.io/tutortkj/wp-content/uploads/2023/12/Untitled-300x156.png 300w, https://schuvi.github.io/tutortkj/wp-content/uploads/2023/12/Untitled.png 729w" sizes="(max-width: 488px) 100vw, 488px" /></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://schuvi.github.io/tutortkj/2023/12/26/contoh2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://schuvi.github.io/tutortkj/2023/12/26/cara-instalasi-debian-11-virtual-box/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
